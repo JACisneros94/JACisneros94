@@ -38,7 +38,6 @@ Soy Programador de tecnologias Web y Moviles, con más de 5 años de experiencia
 [<img title="Facebook" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>][facebook]
 [<img title="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>][linkedin]
 [<img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp.png"/>][whatsapp]
-[<img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>][website]
 
 [linkedin]: www.linkedin.com/in/jacisnerosp94
 [facebook]: https://www.facebook.com/juanalberto.cisnerospacheco
