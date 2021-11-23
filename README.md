@@ -39,6 +39,6 @@ Soy Desarrollador de tecnologias Web y Moviles, con más de 5 años de experienc
 [<img title="Linkedin" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>][linkedin]
 [<img title="WhatsApp" src="https://img.icons8.com/color/48/000000/whatsapp.png"/>][whatsapp]
 
-[linkedin]: www.linkedin.com/in/jacisnerosp94
+[linkedin]: https://www.linkedin.com/in/jacisnerosp94/
 [facebook]: https://www.facebook.com/juanalberto.cisnerospacheco
 [whatsapp]: https://wa.link/o3ml8b
