@@ -1,6 +1,6 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>  Hola, soy Juan Alberto | Desarrollador
 <br>
-Soy Desarrollador de tecnologias Web y Moviles, con más de 5 años de experiencia en tecnologías de la Información, he colaborado para Hospital San Javier Marina y Hospital Joya Marina. Actualmente trabajo tambien en Axioma Network y sigo capacitandome en las areas de Desarrollo Web y Movil, me apasiona la tecnología, busco oportunidades para aprender, apoyar y colaborar en equipo.
+Soy Desarrollador de tecnologias Web y Moviles, con más de 5 años de experiencia en tecnologías de la Información, he colaborado para Hospital San Javier Marina y Hospital Joya Marina. Actualmente trabajo tambien en GoNet Mexico y sigo capacitandome en las areas de Desarrollo Web y Movil, me apasiona la tecnología, busco oportunidades para aprender, apoyar y colaborar en equipo.
 <br><br>
 
 :thought_balloon: **“Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida"**
@@ -8,7 +8,7 @@ Soy Desarrollador de tecnologias Web y Moviles, con más de 5 años de experienc
 
 :computer: **Ingeniero en Sistemas Computacionales**    
 
-:briefcase: **Axioma Network**
+:briefcase: **GoNet Mexico - Aeroméxico**
 <br>
 
 ### Lenguajes y Herramientas
